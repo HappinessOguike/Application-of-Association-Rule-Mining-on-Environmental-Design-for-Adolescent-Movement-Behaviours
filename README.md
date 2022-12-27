@@ -1,1 +1,2 @@
 # Application-of-Association-Rule-Mining-on-Environmental-Design-for-Adolescent-Movement-Behaviours
+Association rule mining which involves the study of identifying patterns among frequently occurring elements, their correlation, or relationships in different databases can be applied to a wide range of applications to enhance decision-making. They are used to create machine-learning programs for customer behavior analysis and forecasting. it is also used for environmental data.This project focused on the application of association rules in environmental characteristics. 
